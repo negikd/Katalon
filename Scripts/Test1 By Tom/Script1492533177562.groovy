@@ -19,9 +19,12 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+<<<<<<< HEAD
 WebUI.openBrowser('http://lifecharger.org/')
 
 WebUI.waitForPageLoad(40)
 
 WebUI.closeBrowser()
 
+=======
+>>>>>>> branch 'master' of https://github.com/negikd/Katalon.git
